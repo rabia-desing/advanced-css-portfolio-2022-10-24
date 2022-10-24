@@ -144,9 +144,9 @@ body{
  }
  .surf-report{
     display: flex;
-    height: 300px;
+    height: 400px;
     width: 100%;
-    background: url('../images/work_images/surf_report.jpg');
+    background: url('../images/work_images/horison.png');
     background-repeat: no-repeat;
     
     background-size: 100% 100%;
