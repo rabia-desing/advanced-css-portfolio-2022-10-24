@@ -8,6 +8,7 @@ I am thankful to my instructos at [RutgersCodingBootcamp](targetURL "https://git
 
 
 ### Resources which helped me learn flexbox:
+[W3schools.com](targetURL "https://www.w3schools.com/css/css3_flexbox.asp")
 
 ## Screenshots of Portfolio
 
