@@ -4,7 +4,10 @@ Advanced css protfolio for developers to show case their work to an empoyer, so 
 
 ## Developer Insights
 
-I am thankful to my instructos at RutgersCodingBootcamp, that they teach me so well and i have created this portfolio.
+I am thankful to my instructos at RutgersCodingBootcamp(targetURL "https://github.com/RutgersCodingBootcamp"), that they teach me so well and i have created this portfolio.
+
+
+### Resources which helped me learn flexbox:
 
 ## Screenshots of Portfolio
 
